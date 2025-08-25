@@ -1,3 +1,7 @@
+👤 Author
+
+Loay Ezzat Mohamed
+Computer Science Student | Cybersecurity Enthusiast
 # ⚽ Soccer Match Management System
 
 A Java Swing & SQLite based desktop application to manage soccer matches, players, and teams.  
